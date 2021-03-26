@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:18520339@gm.uit.edu.vn)
 [![Youtube](https://img.shields.io/twitter/url?label=Youtube&logo=youtube&url=https://youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)](https://www.youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://linkedin.com/in/quankun)](https://www.linkedin.com/in/quankun)
-[![GitHub](https://img.shields.io/twitter/url?label=Profile%20Visualize&logo=github&url=https://profile-summary-for-github.com/user/18520339)](https://profile-summary-for-github.com/user/18520339)
+[![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://profile-summary-for-github.com/user/18520339)](https://profile-summary-for-github.com/user/18520339)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=18520339&show_icons=true">
 <br />
 
