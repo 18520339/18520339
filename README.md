@@ -32,7 +32,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 - Web crawling (**Python, JS**)
-- Web development (**ReactJS, NodeJS**)
+- Web development (**MERN Stack**)
 - Network administrator (**MCSA**, **CCNA**) 
 - Microsoft Office applications development (**VBA**)
 
@@ -46,45 +46,9 @@
 </p>
 
 <details>
-  <summary><b>📺 Latest YouTube Videos</b></summary><br/>
+  <summary><b>📺 Popular YouTube Videos</b></summary><br/>
   <table>
     <tbody>
-      <tr>
-        <td>
-          <a href="https://www.youtube.com/watch?v=G3kVp-01nn8">
-            <img width="150px" src="https://i.ytimg.com/vi/G3kVp-01nn8/mqdefault.jpg">
-          </a>
-        </td>
-        <td>
-          <a href="https://www.youtube.com/watch?v=G3kVp-01nn8">
-            Finding similar images for Data Preparation step in an Data Science project
-          </a><br/>Feb 6, 2021
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://www.youtube.com/watch?v=eOEqCqfHIZI">
-            <img width="150px" src="https://i.ytimg.com/vi/eOEqCqfHIZI/mqdefault.jpg">
-          </a>
-        </td>
-        <td>
-          <a href="https://www.youtube.com/watch?v=eOEqCqfHIZI">
-            Phần mềm Quản lý học sinh THPT
-          </a><br/>Feb 4, 2021
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://www.youtube.com/watch?v=zfMBE3D9IG4">
-            <img width="150px" src="https://i.ytimg.com/vi/zfMBE3D9IG4/mqdefault.jpg">
-          </a>
-        </td>
-        <td>
-          <a href="https://www.youtube.com/watch?v=zfMBE3D9IG4">
-            Download images from image search engine
-          </a><br/>Dec 1, 2020
-        </td>
-      </tr>
       <tr>
         <td>
           <a href="https://www.youtube.com/watch?v=Fx0UWOzYsig">
@@ -99,14 +63,50 @@
       </tr>
       <tr>
         <td>
-          <a href="https://www.youtube.com/watch?v=o-b5rYNvneo">
-            <img width="150px" src="https://i.ytimg.com/vi/o-b5rYNvneo/mqdefault.jpg">
+          <a href="https://www.youtube.com/watch?v=hG-g__2rSIU">
+            <img width="150px" src="https://i.ytimg.com/vi/hG-g__2rSIU/mqdefault.jpg">
           </a>
         </td>
         <td>
-          <a href="https://www.youtube.com/watch?v=o-b5rYNvneo">
-            PowerPoint Motion Graphics (Office 365)
-          </a><br/>May 6, 2020
+          <a href="https://www.youtube.com/watch?v=hG-g__2rSIU">
+            Chat App with Pusher Chatkit
+          </a><br/>Apr 7, 2020
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=Wt5LfdEHqlA">
+            <img width="150px" src="https://i.ytimg.com/vi/Wt5LfdEHqlA/mqdefault.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=Wt5LfdEHqlA">
+            C# Winform - Tic tac toe
+          </a><br/>Apr 15, 2020
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=i4SmMkbwOUw">
+            <img width="150px" src="https://i.ytimg.com/vi/i4SmMkbwOUw/mqdefault.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=i4SmMkbwOUw">
+            Excel VBA - Phần mềm quản lý kho (Warehouse Management)
+          </a><br/>Apr 8, 2020
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://www.youtube.com/watch?v=ysyskgjsPI0">
+            <img width="150px" src="https://i.ytimg.com/vi/ysyskgjsPI0/mqdefault.jpg">
+          </a>
+        </td>
+        <td>
+          <a href="https://www.youtube.com/watch?v=ysyskgjsPI0">
+            Web scraping with Python
+          </a><br/>Apr 7, 2020
         </td>
       </tr>
     </tbody>
