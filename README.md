@@ -14,7 +14,7 @@
 - 🔔 Subcribe me on [Youtube](https://www.youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)
 
 <a href="https://github.com/18520339">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18520339&hide=jupyter%20notebook,html&langs_count=9&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18520339&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
 </a>
 
 ### ⚡ Technologies and Skills:  
@@ -68,7 +68,7 @@
         </td>
         <td>
           <a href="https://www.youtube.com/watch?v=hG-g__2rSIU">
-            Chat App with Pusher Chatkit
+            Chat Application with Pusher Chatkit
           </a><br/>Apr 7, 2020
         </td>
       </tr>
