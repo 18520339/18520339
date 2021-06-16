@@ -13,7 +13,7 @@
 - 💬 Ask me about anything, I am happy to help
 - 🔔 Subcribe me on [Youtube](https://www.youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)
 
-<a href="https://github.com/18520339">
+<a href="https://github.com/18520339" target="_blank">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18520339&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
 </a>
 
@@ -36,10 +36,10 @@
 - Microsoft Office applications development (**VBA**)
 
 <p align="center">
-  <a href="https://github.com/18520339/pusher-chat-room">
+  <a href="https://github.com/18520339/pusher-chat-room" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=18520339&repo=pusher-chat-room" />
   </a>
-   <a href="https://github.com/18520339/operating-system-lab">
+   <a href="https://github.com/18520339/operating-system-lab" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=18520339&repo=operating-system-lab" />
   </a>
 </p>
@@ -50,62 +50,62 @@
     <tbody>
       <tr>
         <td>
-          <a href="https://www.youtube.com/watch?v=Fx0UWOzYsig">
+          <a href="https://www.youtube.com/watch?v=Fx0UWOzYsig" target="_blank">
             <img width="150px" src="https://i.ytimg.com/vi/Fx0UWOzYsig/mqdefault.jpg">
           </a>
         </td>
         <td>
-          <a href="https://www.youtube.com/watch?v=Fx0UWOzYsig">
+          <a href="https://www.youtube.com/watch?v=Fx0UWOzYsig" target="_blank">
             Facebook crawling with Python
           </a><br/>Jul 7, 2020
         </td>
       </tr>
       <tr>
         <td>
-          <a href="https://www.youtube.com/watch?v=hG-g__2rSIU">
+          <a href="https://www.youtube.com/watch?v=hG-g__2rSIU" target="_blank">
             <img width="150px" src="https://i.ytimg.com/vi/hG-g__2rSIU/mqdefault.jpg">
           </a>
         </td>
         <td>
-          <a href="https://www.youtube.com/watch?v=hG-g__2rSIU">
+          <a href="https://www.youtube.com/watch?v=hG-g__2rSIU" target="_blank">
             Chat Application with Pusher Chatkit
           </a><br/>Apr 7, 2020
         </td>
       </tr>
       <tr>
         <td>
-          <a href="https://www.youtube.com/watch?v=Wt5LfdEHqlA">
+          <a href="https://www.youtube.com/watch?v=Wt5LfdEHqlA" target="_blank">
             <img width="150px" src="https://i.ytimg.com/vi/Wt5LfdEHqlA/mqdefault.jpg">
           </a>
         </td>
         <td>
-          <a href="https://www.youtube.com/watch?v=Wt5LfdEHqlA">
+          <a href="https://www.youtube.com/watch?v=Wt5LfdEHqlA" target="_blank">
             C# Winform - Tic tac toe
           </a><br/>Apr 15, 2020
         </td>
       </tr>
       <tr>
         <td>
-          <a href="https://www.youtube.com/watch?v=i4SmMkbwOUw">
+          <a href="https://www.youtube.com/watch?v=i4SmMkbwOUw" target="_blank">
             <img width="150px" src="https://i.ytimg.com/vi/i4SmMkbwOUw/mqdefault.jpg">
           </a>
         </td>
         <td>
-          <a href="https://www.youtube.com/watch?v=i4SmMkbwOUw">
+          <a href="https://www.youtube.com/watch?v=i4SmMkbwOUw" target="_blank">
             Excel VBA - Phần mềm quản lý kho (Warehouse Management)
           </a><br/>Apr 8, 2020
         </td>
       </tr>
       <tr>
         <td>
-          <a href="https://www.youtube.com/watch?v=ysyskgjsPI0">
-            <img width="150px" src="https://i.ytimg.com/vi/ysyskgjsPI0/mqdefault.jpg">
+          <a href="https://www.youtube.com/watch?v=eOEqCqfHIZI" target="_blank">
+            <img width="150px" src="https://i.ytimg.com/vi/eOEqCqfHIZI/mqdefault.jpg">
           </a>
         </td>
         <td>
-          <a href="https://www.youtube.com/watch?v=ysyskgjsPI0">
-            Web scraping with Python
-          </a><br/>Apr 7, 2020
+          <a href="https://www.youtube.com/watch?v=eOEqCqfHIZI" target="_blank">
+            Phần mềm Quản lý học sinh THPT
+          </a><br/>Feb 4, 2021
         </td>
       </tr>
     </tbody>
@@ -117,3 +117,8 @@
 <hr/>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{18520339}/count.svg"/></p>
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=i8b47ov090ya1zkatwz37yyqe&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=i8b47ov090ya1zkatwz37yyqe&cover_image=true&theme=default" />
+  </a>
+</div>  
