@@ -26,11 +26,11 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/cli/cli.png"></code>
 
-- Web crawling (**Python, JS**)
-- Web development (**MERN Stack**)
-- Machine Learning (**TensorFlow**)
-- Network engineering (**CCNA**) 
-- Microsoft Office (**Excel, VBA**)
+- Web Crawling (**Python, JS**).
+- Web Development (**MERN Stack**).
+- Machine Learning (**TensorFlow**).
+- Network Engineering (**CCNA**).
+- Microsoft Office (**Excel, VBA**).
 
 ### 💻 Notable projects:  
 
