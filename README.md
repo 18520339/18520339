@@ -7,7 +7,7 @@
 <img align='right' src="https://bad-apple-github-readme.vercel.app/api?username=18520339&show_bg=1&show_icons=true">
 <br />
 
-- 👨‍🎓 Student at [VNU HCMC UIT](https://www.uit.edu.vn/).
+- 👨‍🎓 Postgraduate student at [UTS](https://www.uts.edu.au).
 - 📚 I'm pursuing AI with the desire of making some significant [contributions](https://github.com/ds4v) to my beautiful national language.
 - 😭 I'm looking for help with Statistics.
 - ⚡ Fun fact: I love Astronomy 🛰️.
@@ -114,8 +114,8 @@
 <hr/>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{18520339}/count.svg"/></p>
-<div align="center">  
+<!-- <div align="center">  
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=i8b47ov090ya1zkatwz37yyqe&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=i8b47ov090ya1zkatwz37yyqe&show_offline=false&bar_color_cover=true"/>
   </a>
-</div>
+</div> -->
