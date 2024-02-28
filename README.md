@@ -51,7 +51,7 @@
 </p>
 
 <details>
-  <summary><h3>🎬 Popular YouTube Videos</h3></summary>
+  <summary><b>🎬 Popular YouTube Videos</b></summary><br>
     <table>
       <tbody>
         <tr>
