@@ -7,7 +7,7 @@
 <img align='right' src="https://bad-apple-github-readme.vercel.app/api?username=18520339&show_bg=1&show_icons=true">
 
 - 👨‍🎓 Postgraduate student at [UTS](https://www.uts.edu.au).
-- 📚 I'm pursuing AI with the desire to develop the **most advanced solutions** to solve real-life issues, make people's lives convenient & [greatly contribute](https://github.com/ds4v) to my beautiful national language.
+- 📚 I'm pursuing AI with the desire to develop **most advanced solutions** to solve real-life issues, make people's lives convenient & [greatly contribute](https://github.com/ds4v) to my national language.
 - 😭 I'm looking for help with Statistics.
 - ⚡ Fun fact: I love Astronomy 🛰️.
 - 🔔 Subcribe me on [Youtube](https://www.youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ?sub_confirmation=1).
@@ -31,7 +31,7 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png"></code>
 
 - Web Scraping (**Python, JS**).
 - Web Development (**MERN Stack**).
