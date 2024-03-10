@@ -1,4 +1,4 @@
-<h2> Hello there, I'm Quan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>
+<h2> Hi, I'm Quan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>
 
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:18520339@gm.uit.edu.vn)
 [![Youtube](https://img.shields.io/twitter/url?label=Youtube&logo=youtube&url=https://youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)](https://www.youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)
@@ -45,8 +45,8 @@
   <a href="https://github.com/ds4v/NomNaOCR" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ds4v&repo=NomNaOCR" />
   </a>
-  <a href="https://github.com/ds4v/30VNFoods" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ds4v&repo=30VNFoods" />
+  <a href="https://github.com/18520339/facebook-data-extraction" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=18520339&repo=facebook-data-extraction" />
   </a>
 </p>
 
