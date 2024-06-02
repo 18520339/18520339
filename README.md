@@ -37,7 +37,7 @@
 - Web Development (**MERN Stack**).
 - Machine Learning (**TensorFlow**).
 - Network Engineering (**CCNA**).
-- Microsoft Office (**Excel, VBA**).
+- Visual Basic for Applications (**Excel**).
 
 ### 💻 Notable projects:  
 
@@ -47,6 +47,12 @@
   </a>
   <a href="https://github.com/18520339/facebook-data-extraction" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=18520339&repo=facebook-data-extraction" />
+  </a>
+    <a href="https://github.com/ds4v/absa-vlsp-2018" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ds4v&repo=absa-vlsp-2018" />
+  </a>
+  <a href="https://github.com/18520339/ml-distributed-training" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=18520339&repo=ml-distributed-training" />
   </a>
 </p>
 
@@ -90,19 +96,7 @@
             </a><br/>Apr 15, 2020
           </td>
         </tr>
-        <tr>
-          <td>
-            <a href="https://www.youtube.com/watch?v=hG-g__2rSIU" target="_blank">
-              <img width="200px" src="https://i.ytimg.com/vi/hG-g__2rSIU/mqdefault.jpg">
-            </a>
-          </td>
-          <td>
-            <a href="https://www.youtube.com/watch?v=hG-g__2rSIU" target="_blank">
-              Chat Application with Pusher Chatkit
-            </a><br/>Apr 7, 2020
-          </td>
-        </tr>
-        <tr>
+                <tr>
           <td>
             <a href="https://www.youtube.com/watch?v=v5K0ueF6Acg" target="_blank">
               <img width="200px" src="https://i.ytimg.com/vi/v5K0ueF6Acg/mqdefault.jpg">
@@ -124,6 +118,18 @@
             <a href="https://www.youtube.com/watch?v=i4SmMkbwOUw" target="_blank">
               Excel VBA - Phần mềm quản lý kho (Warehouse Management)
             </a><br/>Apr 8, 2020
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://www.youtube.com/watch?v=hG-g__2rSIU" target="_blank">
+              <img width="200px" src="https://i.ytimg.com/vi/hG-g__2rSIU/mqdefault.jpg">
+            </a>
+          </td>
+          <td>
+            <a href="https://www.youtube.com/watch?v=hG-g__2rSIU" target="_blank">
+              Chat Application with Pusher Chatkit
+            </a><br/>Apr 7, 2020
           </td>
         </tr>
         <tr>
