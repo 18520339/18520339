@@ -4,7 +4,9 @@
 [![Youtube](https://img.shields.io/twitter/url?label=Youtube&logo=youtube&url=https://youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)](https://www.youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://linkedin.com/in/quankun)](https://www.linkedin.com/in/quankun)
 [![GoogleScholar](https://img.shields.io/twitter/url?label=Scholar&logo=GoogleScholar&url=https://scholar.google.com.au/citations?user=LXP8FJcAAAAJ)](https://scholar.google.com.au/citations?user=LXP8FJcAAAAJ)
-<img align='right' src="https://bad-apple-github-readme.vercel.app/api?username=18520339&show_bg=1&show_icons=true">
+<!-- <img align='right' src="https://bad-apple-github-readme.vercel.app/api?username=18520339&show_bg=1&show_icons=true"> -->
+<img align='right' src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=18520339&include_orgs=true&show_icons=true">
+
 
 - 👨‍🎓 Master student at [UTS](https://www.uts.edu.au).
 - 📚 I'm pursuing AI with the desire to develop **most advanced solutions** to solve real-life issues, make people's lives convenient & [greatly contribute](https://github.com/ds4v) to my national language.
@@ -20,22 +22,22 @@
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png"></code><br>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code><br>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/vba/vba.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png"></code>
 
 - Web Scraping (**Python, JS**).
 - Web Development (**MERN Stack**).
-- Machine Learning (**TensorFlow**).
+- Machine Learning (**TensorFlow**, **sklearn**).
 - Network Engineering (**CCNA**).
 - Visual Basic for Applications (**Excel**).
 
