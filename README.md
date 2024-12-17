@@ -59,6 +59,24 @@
 </p>
 
 <details>
+  <summary><b>📦 Packages/Libraries (Click Here)</b></summary><br>
+  <p align="center">
+    <a href="https://github.com/18520339/tf2-sequence-recognition-toolkit" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=18520339&repo=tf2-sequence-recognition-toolkit" />
+    </a>
+    <a href="https://github.com/18520339/nn-auto-differentiation-engine" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=18520339&repo=nn-auto-differentiation-engine" />
+    </a>
+    <a href="https://github.com/18520339/dbnet-tf2" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=18520339&repo=dbnet-tf2" />
+    </a>
+    <a href="https://github.com/18520339/puppeteer-ecommerce-scraper" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=18520339&repo=puppeteer-ecommerce-scraper" />
+    </a>
+  </p>
+</details>
+
+<details>
   <summary><b>🎬 Popular YouTube Videos (Click Here)</b></summary><br>
     <table>
       <tbody>
