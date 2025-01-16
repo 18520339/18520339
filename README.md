@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:18520339@gm.uit.edu.vn)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@wandh)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danghoangquan.1999)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@18520339)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quankun)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.au/citations?user=LXP8FJcAAAAJ)
 ---
@@ -119,18 +119,6 @@
             </a><br/>Apr 15, 2020
           </td>
         </tr>
-                <tr>
-          <td>
-            <a href="https://www.youtube.com/watch?v=v5K0ueF6Acg" target="_blank">
-              <img width="200px" src="https://i.ytimg.com/vi/v5K0ueF6Acg/mqdefault.jpg">
-            </a>
-          </td>
-          <td>
-            <a href="https://www.youtube.com/watch?v=v5K0ueF6Acg" target="_blank">
-              Distributed Database - ArangoDB Cluster Setup
-            </a><br/>Jun 22, 2021
-          </td>
-        </tr>
         <tr>
           <td>
             <a href="https://www.youtube.com/watch?v=i4SmMkbwOUw" target="_blank">
@@ -141,6 +129,18 @@
             <a href="https://www.youtube.com/watch?v=i4SmMkbwOUw" target="_blank">
               Excel VBA - Phần mềm quản lý kho (Warehouse Management)
             </a><br/>Apr 8, 2020
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://www.youtube.com/watch?v=v5K0ueF6Acg" target="_blank">
+              <img width="200px" src="https://i.ytimg.com/vi/v5K0ueF6Acg/mqdefault.jpg">
+            </a>
+          </td>
+          <td>
+            <a href="https://www.youtube.com/watch?v=v5K0ueF6Acg" target="_blank">
+              Distributed Database - ArangoDB Cluster Setup
+            </a><br/>Jun 22, 2021
           </td>
         </tr>
         <tr>
