@@ -28,9 +28,9 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code><br>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
@@ -42,7 +42,7 @@
 
 - Web Scraping (**Python, JS**).
 - Web Development (**MERN Stack**).
-- Machine Learning (**TensorFlow**, **sklearn**).
+- Machine Learning (**TensorFlow**, **PyTorch**).
 - Network Engineering (**CCNA**).
 - Visual Basic for Applications (**Excel**).
 
