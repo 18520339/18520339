@@ -10,7 +10,8 @@
 <!-- <img align='right' src="https://bad-apple-github-readme.vercel.app/api?username=18520339&show_bg=1&show_icons=true"> -->
 <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quankun) -->
 
-<img align='right' src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=18520339&include_orgs=true&show_icons=true">
+<!-- <img align='right' src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=18520339&include_orgs=true&show_icons=true"> -->
+<img align='right' src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=18520339&rank_icon=percentile&count_private=true&show_icons=truen&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 
 
 - 👨‍🎓 Master student at [UTS](https://www.uts.edu.au).
@@ -22,7 +23,7 @@
 ### ⚡ Technologies and Skills:  
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="right" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=18520339&hide=jupyter%20notebook,html&langs_count=9&layout=compact" />
+  <img align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=18520339&hide=jupyter%20notebook,html&langs_count=9&layout=compact" />
 </a>
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
@@ -50,16 +51,16 @@
 
 <p align="center">
   <a href="https://github.com/ds4v/NomNaOCR" target="_blank">
-    <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=ds4v&repo=NomNaOCR" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ds4v&repo=NomNaOCR" />
   </a>
   <a href="https://github.com/18520339/facebook-data-extraction" target="_blank">
-    <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=18520339&repo=facebook-data-extraction" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=18520339&repo=facebook-data-extraction" />
   </a>
     <a href="https://github.com/ds4v/absa-vlsp-2018" target="_blank">
-    <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=ds4v&repo=absa-vlsp-2018" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ds4v&repo=absa-vlsp-2018" />
   </a>
   <a href="https://github.com/18520339/ml-distributed-training" target="_blank">
-    <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=18520339&repo=ml-distributed-training" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=18520339&repo=ml-distributed-training" />
   </a>
 </p>
 
@@ -67,16 +68,16 @@
   <summary><b>📦 My Packages/Libraries (Click Here)</b></summary><br>
   <p align="center">
     <a href="https://github.com/18520339/tf2-sequence-recognition-toolkit" target="_blank">
-      <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=18520339&repo=tf2-sequence-recognition-toolkit" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=18520339&repo=tf2-sequence-recognition-toolkit" />
     </a>
     <a href="https://github.com/18520339/nn-auto-differentiation-engine" target="_blank">
-      <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=18520339&repo=nn-auto-differentiation-engine" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=18520339&repo=nn-auto-differentiation-engine" />
     </a>
     <a href="https://github.com/18520339/dbnet-tf2" target="_blank">
-      <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=18520339&repo=dbnet-tf2" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=18520339&repo=dbnet-tf2" />
     </a>
     <a href="https://github.com/18520339/puppeteer-ecommerce-scraper" target="_blank">
-      <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=18520339&repo=puppeteer-ecommerce-scraper" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=18520339&repo=puppeteer-ecommerce-scraper" />
     </a>
   </p>
 </details>
