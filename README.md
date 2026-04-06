@@ -15,7 +15,7 @@
 
 
 - 👨‍🎓 Master student at [UTS](https://www.uts.edu.au).
-- 📚 I'm pursuing AI with the desire to develop **most advanced solutions** for real-life issues, make people's lives convenient & [greatly contribute](https://github.com/ds4v) to my national language.
+- 📚 I'm pursuing AI with the desire to develop **advanced solutions** to make people's lives convenient and [contribute](https://github.com/ds4v) to my national language.
 - 😭 I'm looking for help with Statistics.
 - ⚡ Fun fact: I love Astronomy 🛰️.
 - 🔔 Subscribe me on [![Youtube](https://img.shields.io/twitter/url?label=Youtube&logo=youtube&url=https://youtube.com/@wandh)](https://www.youtube.com/@wandh?sub_confirmation=1).
@@ -23,7 +23,7 @@
 ### ⚡ Technologies and Skills:  
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=18520339&hide=jupyter%20notebook,html&langs_count=9&layout=compact" />
+  <img align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=18520339&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
 </a>
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
@@ -42,7 +42,6 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png"></code>
 
 - Web Scraping (**Python, JS**).
-- Web Development (**MERN Stack**).
 - Machine Learning (**TensorFlow**, **PyTorch**).
 - Network Engineering (**CCNA**).
 - Visual Basic for Applications (**Excel**).
@@ -132,30 +131,6 @@
             <a href="https://www.youtube.com/watch?v=i4SmMkbwOUw" target="_blank">
               Excel VBA - Phần mềm quản lý kho (Warehouse Management)
             </a><br/>Apr 8, 2020
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <a href="https://www.youtube.com/watch?v=v5K0ueF6Acg" target="_blank">
-              <img width="200px" src="https://i.ytimg.com/vi/v5K0ueF6Acg/mqdefault.jpg">
-            </a>
-          </td>
-          <td>
-            <a href="https://www.youtube.com/watch?v=v5K0ueF6Acg" target="_blank">
-              Distributed Database - ArangoDB Cluster Setup
-            </a><br/>Jun 22, 2021
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <a href="https://www.youtube.com/watch?v=hG-g__2rSIU" target="_blank">
-              <img width="200px" src="https://i.ytimg.com/vi/hG-g__2rSIU/mqdefault.jpg">
-            </a>
-          </td>
-          <td>
-            <a href="https://www.youtube.com/watch?v=hG-g__2rSIU" target="_blank">
-              Chat Application with Pusher Chatkit
-            </a><br/>Apr 7, 2020
           </td>
         </tr>
         <tr>
