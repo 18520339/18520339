@@ -15,7 +15,7 @@
 
 
 - 👨‍🎓 Master student at [UTS](https://www.uts.edu.au).
-- 📚 I'm pursuing AI with the desire to develop **advanced solutions** to make people's lives convenient and [contribute](https://github.com/ds4v) to my national language.
+- 📚 I'm pursuing AI with the desire to develop **most advanced solutions** to make people's lives convenient & [greatly contribute](https://github.com/ds4v) to my language.
 - 😭 I'm looking for help with Statistics.
 - ⚡ Fun fact: I love Astronomy 🛰️.
 - 🔔 Subscribe me on [![Youtube](https://img.shields.io/twitter/url?label=Youtube&logo=youtube&url=https://youtube.com/@wandh)](https://www.youtube.com/@wandh?sub_confirmation=1).
@@ -39,7 +39,7 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/vba/vba.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/huggingface/huggingface.png"></code>
 
 - Web Scraping (**Python, JS**).
 - Machine Learning (**TensorFlow**, **PyTorch**).
